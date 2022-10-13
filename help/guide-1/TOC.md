@@ -1,21 +1,21 @@
 ---
-user-guide-title: 已終止產品 [!DNL Adobe Experience Cloud]
-breadcrumb-title: 已終止產品
-user-guide-description: 已終止產品清單 [!DNL Adobe Experience Cloud].
+user-guide-title: 已經終止的  [!DNL Adobe Experience Cloud] 產品
+breadcrumb-title: 已經終止的產品
+user-guide-description: 已經終止的  [!DNL Adobe Experience Cloud] 產品清單。
 source-git-commit: 68baba5c3f5347952723a31971b1b14902f2e442
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 已終止產品 {#using}
+# 已經終止的產品 {#using}
 
-+ [概述](overview.md)
++ [概覽](overview.md)
 + [Device Co-op](device-co-op.md)
-+ [Experience PlatformAuditor](auditor.md)
++ [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
-+ [Mobile Services](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target=&quot;_blank&quot;}
++ [行動服務](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target=&quot;_blank&quot;}
 + [Search&amp;Promote](search-promote.md)
-+ [社交](social.md)
++ [Social](social.md)
