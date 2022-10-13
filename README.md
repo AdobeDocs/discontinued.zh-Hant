@@ -1,10 +1,10 @@
 ---
 source-git-commit: aec0e79e0eeaecce503b8b3dbc3ef493680db534
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # Livefye
 
-此存放庫現在已封存。 如需詳細資訊，請參閱已中止的。
+此存放庫現已封存。請參閱 discontinued.en 以取得詳細資訊。
