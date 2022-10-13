@@ -1,10 +1,10 @@
 ---
-title: '"[!DNL Adobe Livefyre] 服務終止」'
-description: Livefyre和Livefyre Studio的服務終止提醒。
+title: 「[!DNL Adobe Livefyre] 服務終止」
+description: Livefyre 和 Livefyre Studio 的 Livefyre 服務終止提醒。
 source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -12,20 +12,20 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->客戶可存取的最後一天 [!DNL Livefyre] 是2021年11月30日。
+>客戶可以存取 [!DNL Livefyre] 的截止日期為 2021 年 11 月 30 日。
 
-透過社交媒體提供者改變動態，包括 [!DNL Facebook] 和 [!DNL Twitter])，使得繼續為Adobe客戶提供強大的UGC（使用者產生的內容）解決方案充滿挑戰。 由於這些挑戰，Adobe已作出難以決定終止 [!DNL Livefyre] 服務。 客戶將能夠存取 [!DNL Livefyre] 是2021年11月30日。 自2021年1月起，Adobe便與客戶合作，使用 [!DNL Livefyre] 順利過渡到受信任的Adobe合作夥伴並推薦其他解決方案。 此提醒是為了確保 [!DNL Livefyre] 服務日期。 Adobe致力於提供平穩切換所需的內容。 如有疑問，請洽詢您的客戶成功經理或客戶經理。
+社交媒體供應商 (包括 [!DNL Facebook] 和 [!DNL Twitter]) 日新月異的變化，導致 Adobe 難以繼續為客戶提供強大的 UGC (使用者產生的內容) 解決方案。由於這些挑戰，Adobe 做出了萬不得已的決定：我們決定終止 [!DNL Livefyre] 服務。客戶能夠存取 [!DNL Livefyre] 的截止日期為 2021 年 11 月 30 日。自 2021 年 1 月以來，Adobe 便持續與使用 [!DNL Livefyre] 的客戶合作，希望能夠順利轉換到值得信賴的 Adobe 合作夥伴及推薦的替代解決方案。此提醒是為了確保客戶能看到 [!DNL Livefyre] 服務終止日期。Adobe 致力於提供順利轉換所需的一切。如果您有疑問，請聯繫您的客戶成功經理或客戶經理。
 
-## [!DNL Livefyre] 服務終止常見問題 {#livefyre-eos-faq}
+## [!DNL Livefyre] 終止服務常見問題集 {#livefyre-eos-faq}
 
-### **_變更項目 [!DNL Livefyre]?_**
+### **_[!DNL Livefyre] 有了什麼改變？_**
 
-在以往的通訊中，Adobe宣佈，社交媒體提供商的動態變化，包括 [!DNL Facebook] 和 [!DNL Twitter]，繼續為客戶提供強大的UGC解決方案，將是一項充滿挑戰的任務。 由於這些挑戰，Adobe已作出難以決定終止 [!DNL Livefyre] 服務。
+在之前的通訊內容中，Adobe 公告了以下事項：社交媒體供應商 (包括 [!DNL Facebook] 和 [!DNL Twitter]) 日新月異的變化，導致我們難以繼續為客戶提供強大的 UGC 解決方案。由於這些挑戰，Adobe 做出了萬不得已的決定：我們決定終止 [!DNL Livefyre] 服務。
 
-### **_我仍可以續約 [!DNL Livefyre] 許可證？_**
+### **_我的 [!DNL Livefyre] 授權是否仍能續約？_**
 
-否，Livefyre將於2021年11月30日終止。 Adobe正在推薦替代解決方案，並與客戶密切合作，以實現平穩過渡。
+不行，Livefyre 終止服務日期為 2021 年 11 月 30 日。Adobe 正在推薦替代解決方案，也在跟客戶密切合作，希望能夠協助客戶順利轉換。
 
-### **_我可以聯絡誰以進一步了解？_**
+### **_我可以聯絡誰來了解更多資訊？_**
 
-如有任何問題，請聯絡您的CSM（客戶成功經理）或Shelly Chiang(schiang@adobe.com)。
+如有任何疑問，請聯繫您的 CSM (客戶成功經理) 或 Shelly Chiang (schiang@adobe.com)。
