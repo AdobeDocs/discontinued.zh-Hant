@@ -1,103 +1,103 @@
 ---
-keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op；終止服務
-title: '"[!DNL Device Co-op] 終止常見問題集」'
-description: 了解Device Co-op的服務終止計畫。
+keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;生命週期結束
+title: 「[!DNL Device Co-op] 生命週期結束常見問題集」
+description: 了解 Device Co-op 的生命週期結束計劃。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1085'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Device Co-op] 終止常見問題集
+# [!DNL Device Co-op] 生命週期結束常見問題集
 
-本檔案提供關於 [!DNL Adobe Experience Cloud Device Co-op] 終止服務計畫。 當此計畫生效時，Adobe會在 [Experience Cloud發行說明](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) 和 [優先順序產品更新](https://www.adobe.com/subscription/priority-product-update.html).
+此文件提供有關 [!DNL Adobe Experience Cloud Device Co-op] 生命週期結束 (EOL) 計劃的常見問題解答。當此計劃生效後，Adobe 將於 [Experience Cloud 版本資訊](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)和[優先產品更新](https://www.adobe.com/subscription/priority-product-update.html)中提供進一步的通知。
 
-[!DNL Device Co-op] 是一項計畫，可讓參與者共同合作，以在數位接觸點間更能識別客戶，同時確保最高層級的隱私權和透明度。
+[!DNL Device Co-op] 方案可讓參與者共同努力，以更好地識別各種數位接觸點中的消費者，同時確保最高等級的隱私和透明度。
 
 ## 常見問題集
 
-以下是關於 [!DNL Device Co-op] EOL計畫。
+以下是有關 [!DNL Device Co-op] EOL 計劃的常見問題解答清單。
 
-## 為什麼 [!DNL Device Co-op] 被廢止？
+## 為什麼 [!DNL Device Co-op] 會被淘汰？
 
-AdTech環境即將進行的變更預計會導致 [!DNL Device Co-op] 成為未來幾年的過時解決方案。 [!DNL Device Co-op] 主要由第三方cookie組成，且 [!DNL Google's] 宣告他們將封鎖 [!DNL Google Chrome] 到2022年， [!DNL Device Co-op]. [!DNL Chrome] 擁有約65%的瀏覽器市場份額，而其他主要瀏覽器已實作封鎖第三方Cookie的功能。 一次 [!DNL Chrome] 封鎖第三方cookie，則大部分的第三方cookie都會遭到封鎖，且 [!DNL Device Co-op] 會被淘汰。
+AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未來幾年成為過時的解決方案。[!DNL Device Co-op] 主要是由第三方 Cookie 所組成，而 [!DNL Google's] 宣佈他們將在 2022 年之前於 [!DNL Google Chrome] 上封鎖第三方 Cookie，這將會降低 [!DNL Device Co-op] 的有效性。[!DNL Chrome] 擁有約 65% 的瀏覽器市場佔有率，其他主要瀏覽器已實作對第三方 Cookie 的封鎖行為。一旦 [!DNL Chrome] 封鎖第三方 Cookie，大部分第三方 Cookie 都會被封鎖，而 [!DNL Device Co-op] 將會被淘汰。
 
-## 為什麼Adobe結束 [!DNL Device Co-op] 現在註冊？
+## Adobe 為什麼現在要終止 [!DNL Device Co-op] 註冊？
 
-註冊即將終止，以避免因第三方Cookie的業界即將變更而無法達到客戶期望的風險。 [!DNL Device Co-op] 需要幾個月的時間才能從服務中獲得價值。 此時，任何進一步註冊都可能導致品牌未達到 [!DNL Device Co-op].
+我們即將終止註冊，是為了避免由於第三方 Cookie 即將發生的產業變化，而導致無法滿足客戶期望的風險。[!DNL Device Co-op] 需要幾個月的時間來準備，另外也需要幾個月的時間來從服務中提取價值。目前任何進一步的註冊，都可能導致品牌無法體驗到 [!DNL Device Co-op] 的完整價值。
 
-## 2022年7月，Google宣佈將第三方Cookie在Chrome上的淘汰延遲至2024年。 這會影響 [!DNL Device Co-op] EOL計畫？
+## 在 2022 年 7 月，Google 已宣佈將 Chrome 上的第三方 Cookie 淘汰計劃延遲到 2024 年。這是否會影響到 [!DNL Device Co-op] 的 EOL 計劃？
 
-不，Adobe [!DNL Device Co-op] EOL計畫將保持不變，不會延長。
+不會，Adobe 的 [!DNL Device Co-op] EOL 計劃依然保持不變，不會延長。
 
-## 新客戶能註冊嗎？
+## 新客戶是否可以註冊？
 
-自2021年6月11日起，Adobe將不再接受 [!DNL Device Co-op].
+自 2021 年 6 月 11 日起，Adobe 已不再接受新客戶註冊 [!DNL Device Co-op]。
 
-## 現有合同是否續訂？
+## 現有合約是否仍能續約？
 
-自2021年6月11日起，Adobe將不再續約 [!DNL Device Co-op] 合約。 如果您想繼續使用 [!DNL Device Co-op] 服務，您可以繼續根據目前的授權條款執行此操作，直到程式結束為止。
+自 2021 年 6 月 11 日起，Adobe 已不再提供 [!DNL Device Co-op] 合約的續約。如果您想要繼續使用 [!DNL Device Co-op] 服務，可以根據最新的授權條款繼續使用，直到方案結束為止。
 
-## 確切的結束日期為 [!DNL Device Co-op] 程式？
+## [!DNL Device Co-op] 方案的確切結束日期是哪一天？
 
-此 [!DNL Device Co-op] 計畫將於2022年結束。 特定的時間和日期取決於 [!DNL Google] 開始封鎖第三方cookie。 預計退役工作將於2022年9月開始。
+[!DNL Device Co-op] 方案將於 2022 年結束。具體的時間和日期取決於 [!DNL Google] 何時開始封鎖第三方 Cookie。其淘汰作業預計將於 2022 年 9 月開始。
 
-## 終止Device Co-op會影響哪些應用程式？
+## 哪些應用程式會受到 Device Co-op 生命週期結束的影響？
 
-下列應用程式將受 [!DNL Device Co-op] 終止程式：
+以下應用程式會受到 [!DNL Device Co-op] 生命週期結束程序的影響：
 
 - [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
 - [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en)
 - [[!DNL Adobe Advertising Cloud]](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=en)
 - [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)
 
-## 我有哪些選項可替代 [!DNL Device Co-op]?
+## 有哪些選項可用來替代 [!DNL Device Co-op]？
 
 ### [!DNL Analytics]
 
-您可以使用 [!DNL Analytics] [跨裝置分析(CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 功能，因為它同時支援Adobe Experience Platform Identity Service [專用圖表](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en) 和 [依欄位匯整](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en).
+您可以使用[!DNL Analytics] [跨裝置分析 (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 功能，因為此功能可支援 Adobe Experience Platform 身分識別服務[專用圖表](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en)和[欄位式拼接](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en)。
 
 ### [!DNL Audience Manager]
 
-[!DNL Audience Manager] 維護與協力廠商裝置圖表合作夥伴的整合，包括 [!DNL LiveRamp] 和 [!DNL Tapad]，但您必須直接與圖表合作夥伴建立商業關係，才能運用 [!DNL Audience Manager]. 所有客戶皆需更新任何合用設定檔合併規則，以使用 [!DNL Device Co-op.]
+[!DNL Audience Manager] 會維護與第三方裝置圖表合作夥伴的整合，包括 [!DNL LiveRamp] 和 [!DNL Tapad]，儘管您必須直接與圖表合作夥伴建立商業關係，才能利用 [!DNL Audience Manager]。所有客戶皆應更新任何合作設定檔合併規則，以使用除了 [!DNL Device Co-op.] 以外的任何選項
 
 ### [!DNL Real-time Customer Data Platform]
 
-沒有修改當前 [!DNL Audience Manager Data Management Platform] (DMP)。 不過，取代協力廠商Cookie可能會對大部分DMP使用者造成規模挑戰。 為協助客戶改進其資料管理作法，Adobe鼓勵減少對識別碼的依賴，這些識別碼在來年將面臨限制。 行銷團隊必須建立第一方資料策略，著重於包含個人識別資訊(PII)的耐用識別碼，這可透過 [!DNL Real-time Customer Data Platform] （即時CDP）。
+我們目前沒有修改最新 [!DNL Audience Manager Data Management Platform] (DMP) 的計劃。不過，停用第三方 Cookie 可能會給大多數 DMP 使用者帶來許多挑戰。為了幫助客戶改進他們的資料管理做法，Adobe 鼓勵減少對識別碼的依賴，這些識別碼將從明年起受到限制。行銷團隊必須制定第一方資料策略，聚焦於包含個人識別資訊 (PII) 的持久性識別碼，這可以透過 [!DNL Real-time Customer Data Platform] (Real-time CDP) 加以解決。
 
-[!DNL Real-time CDP] 將可用於建立受眾的識別碼集擴充至包含PII，以減少對協力廠商cookie和裝置ID的相依性。 基礎 [!DNL Real-time CDP] 是即時客戶設定檔，可即時將人員屬性資料與行為資料結合在一起，並可讓行銷人員使用獲專利的資料控管功能建立豐富的對象區段。 贊 [!DNL Audience Manager], [!DNL Real-time CDP] 可支援前瞻分析和個人化使用案例，也可產生更精細的人員層級前瞻分析，並可針對橫跨廣告技術和行銷技術（包括付費媒體、社交媒體、電子郵件和客戶系統）的更廣泛目的地啟用對象。
+[!DNL Real-time CDP] 藉由擴充可用於建立對象的識別碼組來包含 PII，以減少對於第三方 Cookie 和裝置 ID 的依賴。[!DNL Real-time CDP] 的基礎部分是即時客戶設定檔，它能即時整合個人屬性資料與行為資料，並允許行銷人員透過專利的資料治理控制項，建立豐富的對象區段。與 [!DNL Audience Manager] 一樣，[!DNL Real-time CDP] 也能提供見解及個人化使用案例，但會同時產生更細微的個人層級見解，而且可以將對象啟用到更廣泛的目標範圍 (橫跨廣告技術和行銷技術)，包括付費媒體、社交媒體、電子郵件和客戶系統。
 
-[!DNL Real-time CDP] 也將包含存取權 [Adobe Experience Platform區段比對（測試版）](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en)，這可讓品牌透過合作關係擴展自己的第一方資料集，並達成改善的前瞻分析和個人化。
+[!DNL Real-time CDP] 也包括對 [Adobe Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en) 的存取權，此服務可讓品牌透過合作關係擴充其自身的第一方資料集，並獲得改良的見解和個人化。
 
 ### [!DNL Target]
 
-目前沒有可供 [!DNL Target] 因為 [!DNL Target] 提供決定性的跨裝置身分匯整功能，稱為 `mbox3rdPartyId`，其功能與Adobe的客戶ID類似。 此功能可讓 [!DNL Target] 合併設定檔和活動參與率的客戶 [!DNL Target] 在傳入頻道中完成的測試和個人化。
+目前 [!DNL Target] 沒有可用的替代方案，因為 [!DNL Target] 提供決定性的跨裝置身分識別拼接功能 `mbox3rdPartyId`，其運作方式類似於 Adobe 的客戶 ID。此功能可讓 [!DNL Target] 客戶在傳入通道中所完成的各項 [!DNL Target] 測試和個人化中合併設定檔和活動參與。
 
 ### Adobe Advertising Cloud
 
-[!DNL Advertising Cloud] 客戶將無法再使用 [!DNL Device Co-op] 用於跨裝置對象鎖定目標和測量。 使用 [!DNL Advertising Cloud]，您仍可運用Adobe [!DNL Device Graph] 與 [!DNL LiveRamp] 繼續履行這些職能 [!DNL LiveRamp's] 能力和規模。 您必須允許使用 [!DNL Device Co-op] 結束，然後切換到 [!DNL LiveRamp] 裝置圖表提供者，或不再使用以人物為基礎的鎖定目標。
+[!DNL Advertising Cloud] 客戶無法再將 [!DNL Device Co-op] 用於跨裝置對象目標定位和測量。有了 [!DNL Advertising Cloud]，您還是可以利用 Adobe 與 [!DNL LiveRamp] 的 [!DNL Device Graph] 合作關係，在 [!DNL LiveRamp's] 的能力和規模範圍內繼續執行這些功能。您必須允許正在使用 [!DNL Device Co-op] 的行銷活動結束，然後切換到 [!DNL LiveRamp] 裝置圖表供應商，或是停止使用以人物為基礎的目標定位。
 
-## 哪些現有功能和實作可協助我為沒有Cookie的未來做準備？
+## 哪些現有功能和實作可以幫助我準備好迎接無 Cookie 的未來？
 
-您現有的訪客ID服務實作可提供Analytics的強大功能 [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html). 如果您現有的宣告ID是雜湊電子郵件，則可使用此ID來支援下列功能：
+您現有的訪客 ID 服務實作可支援 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)。如果您現有已宣佈的 ID 是經過雜湊處理的電子郵件，則可用於支援以下功能：
 
-- [!DNL Audience Manager] [以人物為基礎的目的地](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
-- [Experience Platform區段符合（測試版）](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en).
+- [!DNL Audience Manager][以人物為基礎的目標](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
+- [Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en)。
 
-## 我是否可以將資料 [!DNL Device Co-op]?
+## 我是否可以保留 [!DNL Device Co-op] 中的資料？
 
-針對 [!DNL Audience Manager] 和 [!DNL Advertising Cloud] 使用者、來自 [!DNL Device Co-op] 將無法傳輸至協力廠商圖表。 [!DNL Device Co-op] 資料只會移轉 [!DNL Analytics Ultimate] 使用CDA搭配 [!DNL Device Co-op] 切換為依欄位匯整。 其他所有解決方案都不會移轉其資料。
+對於 [!DNL Audience Manager] 和 [!DNL Advertising Cloud] 使用者，[!DNL Device Co-op] 中的資料將無法轉移到第三方圖表。[!DNL Device Co-op] 資料只會針對 [!DNL Analytics Ultimate] 使用者移轉，其方式是搭配 [!DNL Device Co-op] 使用 CDA 以切換到欄位式拼接。所有其他解決方案都不會移轉其資料。
 
-## 是否強制採用其他功能？
+## 是否必須採用其他功能？
 
-雖然採用其他Adobe功能並非強制性，但您應盡快開始實作其他功能，以在 [!DNL Device Co-op] 淘汰。
+雖然採用其他 Adobe 功能不是強制性的，但您應該盡快開始實作其他功能，以便在 [!DNL Device Co-op] 淘汰之前有時間進行適當的協調。
 
-## 如果我選擇採用替代方案，我何時必須採用？
+## 如果我選擇這麼做的話，何時必須採用替代解決方案？
 
-採用其他功能並非強制性。 只有當您希望繼續處理已處理的使用案例時，才建議使用 [!DNL Device Co-op]. 如果您選擇採用其他功能，則必須在2022年前採用（確切宣佈時間）, [!DNL Device Co-op] 程式結束。
+採用其他功能不是強制性的。只有當您想要繼續處理先前由 [!DNL Device Co-op] 處理的使用案例時，才建議使用。如果您選擇採用其他功能，您必須在 2022 年 [!DNL Device Co-op] 方案結束之前這樣做 (確切的時間有待公佈)。
 
-## 收養要多久？
+## 採用需要多久的時間？
 
-這取決於功能。 例如，如果Analytics Ultimate客戶使用跨裝置分析搭配 [!DNL Device Co-op] 需要移轉至「即時專用裝置圖表」或「依欄位匯整」，採用需要一些時間。
+這取決於功能。舉例來說，如果搭配 [!DNL Device Co-op] 使用跨裝置分析的 Analytics Ultimate 客戶需要移轉到即時私人裝置圖表或欄位式拼接，則採用需要一些時間。
