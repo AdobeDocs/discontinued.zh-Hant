@@ -1,8 +1,8 @@
 ---
 source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 # 參與
@@ -17,9 +17,9 @@ ht-degree: 93%
 即代表您應遵守本準則。若發現不允許的行為，請向 
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com) 回報。
 
-## 貢獻者指南檔案
+## 參與者指南文件
 
-請參閱 [貢獻者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+請參閱[參與者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
 
 ## 有問題嗎?
 
@@ -33,7 +33,7 @@ ht-degree: 93%
 ## 準則審核
 
 所有提交內容應當採用提取要求的形式送出，且需接受專案認可者的審核。如需傳送提取要求的詳細資訊，請參閱 
-[GitHub 的提取要求文件](https://help.github.com/tw/articles/about-pull-requests/)。
+[GitHub 的提取要求文件](https://help.github.com/articles/about-pull-requests/)。
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
@@ -46,4 +46,4 @@ submitting a pull request!
 
 ## 安全問題
 
-資訊安全方面的問題不應透過此問題追蹤器回報。請[向我們的安全專家提出問題](https://helpx.adobe.com/tw/security/alertus.html)
+資訊安全方面的問題不應透過此問題追蹤器回報。請[向我們的安全專家提出問題](https://helpx.adobe.com/security/alertus.html)
