@@ -1,8 +1,8 @@
 ---
-source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # 參與
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## 參與者指南文件
 
-請參閱[參與者指南](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html)。
+請參閱[參與者指南](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)。
 
 ## 有問題嗎?
 
