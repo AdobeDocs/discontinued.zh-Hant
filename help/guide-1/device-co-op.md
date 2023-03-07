@@ -4,9 +4,9 @@ title: 「[!DNL Device Co-op] 生命週期結束常見問題集」
 description: 了解 Device Co-op 的生命週期結束計劃。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1133'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -102,7 +102,7 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 這取決於功能。舉例來說，如果搭配 [!DNL Device Co-op] 使用跨裝置分析的 Analytics Ultimate 客戶需要移轉到即時私人裝置圖表或欄位式拼接，則採用需要一些時間。
 
-## 那 [!UICONTROL People] 量度？
+## [!UICONTROL People]人員量度會如何？
 
-隨著 [!DNL Device Co-op], [!UICONTROL People] 量度已不再相關。 在不久的將來（未定日期），我們將移除 [!UICONTROL People] 量度。 此時，我們會將其資料重新導向至 [!UICONTROL Unique Visitor] 量度，防止專案、區段和計算量度中斷。
+隨著 [!DNL Device Co-op] 淘汰不用，[!UICONTROL People] 量度已不再相關。在不久的將來 (日期待定)，我們將移除 [!UICONTROL People] 量度。屆時，我們會將其資料重新導向至 Analytics 中的 [!UICONTROL Unique Visitor] 量度，以防止項目、區段和計算量度中斷。
 
