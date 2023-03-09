@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: 「[!DNL Device Co-op] 生命週期結束常見問題集」
 description: 了解 Device Co-op 的生命週期結束計劃。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
-workflow-type: ht
-source-wordcount: '1133'
-ht-degree: 100%
+source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
+workflow-type: tm+mt
+source-wordcount: '1129'
+ht-degree: 99%
 
 ---
 
@@ -104,5 +104,5 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 ## [!UICONTROL People]人員量度會如何？
 
-隨著 [!DNL Device Co-op] 淘汰不用，[!UICONTROL People] 量度已不再相關。在不久的將來 (日期待定)，我們將移除 [!UICONTROL People] 量度。屆時，我們會將其資料重新導向至 Analytics 中的 [!UICONTROL Unique Visitor] 量度，以防止項目、區段和計算量度中斷。
+隨著 [!DNL Device Co-op] 淘汰不用，[!UICONTROL People] 量度已不再相關。2023年5月8日，我們將 [!UICONTROL People] 量度。 屆時，我們會將其資料重新導向至 Analytics 中的 [!UICONTROL Unique Visitor] 量度，以防止項目、區段和計算量度中斷。
 
