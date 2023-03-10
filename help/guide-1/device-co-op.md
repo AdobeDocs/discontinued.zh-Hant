@@ -4,15 +4,15 @@ title: 「[!DNL Device Co-op] 生命週期結束常見問題集」
 description: 了解 Device Co-op 的生命週期結束計劃。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1129'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 # [!DNL Device Co-op] 生命週期結束常見問題集
 
-此文件提供有關 [!DNL Adobe Experience Cloud Device Co-op] 生命週期結束 (EOL) 計劃的常見問題解答。當此計劃生效後，Adobe 將於 [Experience Cloud 版本資訊](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)和[優先產品更新](https://www.adobe.com/subscription/priority-product-update.html)中提供進一步的通知。
+此文件提供有關 [!DNL Adobe Experience Cloud Device Co-op] 生命週期結束 (EOL) 計劃的常見問題解答。當此計劃生效後，Adobe 將於 [Experience Cloud 版本資訊](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)和[優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)中提供進一步的通知。
 
 [!DNL Device Co-op] 方案可讓參與者共同努力，以更好地識別各種數位接觸點中的消費者，同時確保最高等級的隱私和透明度。
 
@@ -48,16 +48,16 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 以下應用程式會受到 [!DNL Device Co-op] 生命週期結束程序的影響：
 
-- [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=en)
-- [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=en)
-- [[!DNL Adobe Advertising Cloud]](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=en)
-- [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=en)
+- [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
+- [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=zh-Hant)
+- [[!DNL Adobe Advertising Cloud]](https://experienceleague.adobe.com/docs/advertising-cloud.html?lang=zh-Hant)
+- [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=zh-Hant)
 
 ## 有哪些選項可用來替代 [!DNL Device Co-op]？
 
 ### [!DNL Analytics]
 
-您可以使用[!DNL Analytics] [跨裝置分析 (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 功能，因為此功能可支援 Adobe Experience Platform 身分識別服務[專用圖表](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en)和[欄位式拼接](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en)。
+您可以使用[!DNL Analytics] [跨裝置分析 (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 功能，因為此功能可支援 Adobe Experience Platform 身分識別服務[專用圖表](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=zh-Hant)和[欄位式拼接](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=zh-Hant)。
 
 ### [!DNL Audience Manager]
 
@@ -69,7 +69,7 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 [!DNL Real-time CDP] 藉由擴充可用於建立對象的識別碼組來包含 PII，以減少對於第三方 Cookie 和裝置 ID 的依賴。[!DNL Real-time CDP] 的基礎部分是即時客戶設定檔，它能即時整合個人屬性資料與行為資料，並允許行銷人員透過專利的資料治理控制項，建立豐富的對象區段。與 [!DNL Audience Manager] 一樣，[!DNL Real-time CDP] 也能提供見解及個人化使用案例，但會同時產生更細微的個人層級見解，而且可以將對象啟用到更廣泛的目標範圍 (橫跨廣告技術和行銷技術)，包括付費媒體、社交媒體、電子郵件和客戶系統。
 
-[!DNL Real-time CDP] 也包括對 [Adobe Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en) 的存取權，此服務可讓品牌透過合作關係擴充其自身的第一方資料集，並獲得改良的見解和個人化。
+[!DNL Real-time CDP] 也包括對 [Adobe Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=zh-Hant) 的存取權，此服務可讓品牌透過合作關係擴充其自身的第一方資料集，並獲得改良的見解和個人化。
 
 ### [!DNL Target]
 
@@ -84,7 +84,7 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 您現有的訪客 ID 服務實作可支援 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)。如果您現有已宣佈的 ID 是經過雜湊處理的電子郵件，則可用於支援以下功能：
 
 - [!DNL Audience Manager][以人物為基礎的目標](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
-- [Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=en)。
+- [Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=zh-Hant)。
 
 ## 我是否可以保留 [!DNL Device Co-op] 中的資料？
 
@@ -104,5 +104,5 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 ## [!UICONTROL People]人員量度會如何？
 
-隨著 [!DNL Device Co-op] 淘汰不用，[!UICONTROL People] 量度已不再相關。2023年5月8日，我們將 [!UICONTROL People] 量度。 屆時，我們會將其資料重新導向至 Analytics 中的 [!UICONTROL Unique Visitor] 量度，以防止項目、區段和計算量度中斷。
+隨著 [!DNL Device Co-op] 淘汰不用，[!UICONTROL People] 量度已不再相關。2023 年 5 月 8 日，我們將移除[!UICONTROL People]量度。屆時，我們會將其資料重新導向至 Analytics 中的 [!UICONTROL Unique Visitor] 量度，以防止項目、區段和計算量度中斷。
 
