@@ -4,7 +4,7 @@ title: 「[!DNL Device Co-op] 生命週期結束常見問題集」
 description: 了解 Device Co-op 的生命週期結束計劃。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1129'
 ht-degree: 100%
 
