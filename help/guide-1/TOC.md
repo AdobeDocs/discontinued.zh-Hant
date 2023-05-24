@@ -16,6 +16,6 @@ ht-degree: 93%
 + [Device Co-op](device-co-op.md)
 + [Experience Platform Auditor](auditor.md)
 + [Livefyre](livefyre.md)
-+ [移動服務](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target="_blank"}
++ [行動服務](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target="_blank"}
 + [Search&amp;Promote](search-promote.md)
 + [Social](social.md)
