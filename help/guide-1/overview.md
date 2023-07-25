@@ -3,8 +3,8 @@ title: 已經終止的  [!DNL Adobe Experience Cloud] 產品概覽
 description: 已經終止、被淘汰或生命週期結束的 [!DNL Adobe Experience Cloud] 和 [!DNL Adobe Experience Platform] 產品概覽
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 source-git-commit: f13d308f4a29992bbaf3c5f84b2fa4da8c047cfd
-workflow-type: tm+mt
-source-wordcount: '130'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
