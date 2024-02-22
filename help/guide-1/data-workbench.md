@@ -1,13 +1,13 @@
 ---
 title: 「[!DNL Data Workbench] 生命週期結束」
 description: 本文件說明  [!DNL Data Workbench] 生命週期結束常見問題。
-source-git-commit: e1e9afda7c64a1343d533d0c200296efbe7872e8
+exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
+source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
 workflow-type: ht
 source-wordcount: '380'
 ht-degree: 100%
 
 ---
-
 
 # Data Workbench 生命週期結束常見問題
 
@@ -36,7 +36,7 @@ Data Workbench 中目前可用的大多數功能和使用案例目前在 Adobe E
 Adobe 目前提供以下 Adobe Experience Platform 解決方案來滿足與 Data Workbench 類似的需求：
 
 * [**Customer Journey Analytics**](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant)：對來自 Adobe Experience Platform 的多管道資料使用歸因、篩選、流量和流失等進階分析技術。
-* [**查詢服務**](https://experienceleague.adobe.com/docs/experience-platform/query/home.html)：對來自 Adobe Experience Platform 的資料執行 SQL 查詢。
+* [**查詢服務**](https://experienceleague.adobe.com/docs/experience-platform/query/home.html?lang=zh-Hant)：對來自 Adobe Experience Platform 的資料執行 SQL 查詢。
 * [**資料準備**](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html?lang=zh-Hant)：對應、轉換和驗證資料，以便在其他 Adobe Experience Platform 解決方案中更有效地使用。
 
 ## 在那裡可以找到更多資訊？

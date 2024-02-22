@@ -1,13 +1,13 @@
 ---
 title: Reports and Analytics 生命週期結束通知
 description: Reports and Analytics 生命週期結束提醒。
-source-git-commit: be4a66818a404f8fa18daed94bb25401424dcefa
+exl-id: e6d8f3e7-7070-44f9-aa2a-aad297d15847
+source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
 workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
 ---
-
 
 # Reports and Analytics 生命週期結束通知
 
