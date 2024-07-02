@@ -1,21 +1,21 @@
 ---
-description: 瞭解如何終止Adobe Analytics Data Connectors整合。
-title: Analytics Data Connectors整合終止服務
+description: 了解 Adobe Analytics Data Connectors 整合終止服務。
+title: Analytics Data Connectors 整合生命週期結束
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Adobe Data Connectors整合終止服務
+# Adobe Data Connectors 整合生命週期結束
 
 **自 2021 年 8 月 19 日起**，Adobe 已經終止 Data Connectors 整合，並將其更換為 [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product)。Adobe 希望盡量為客戶和合作夥伴提供順暢的轉換過程。
 
 Adobe Analytics 的目標是提供同級最佳的網路和行銷分析，以便滿足客戶的需求。隨著技術和企業需求不斷演變，Adobe 努力繼續提供符合最高標準的服務。支援 Data Connectors 整合的 API 不再符合標準，且不再適用於如今的 Adobe Analytics 技術基礎架構。
 
-請注意，本產品壽命結束公告不適用於Adobe Source聯結器，這是Adobe Experience Platform中的資料收集功能。 Adobe Source Connectors (有時稱為Adobe Data Connectors)已完全受Adobe支援。
+請注意，此生命週期結束公告不適用於 Adobe Source Connectors，它是 Adobe Experience Platform 中的資料收集功能。Adobe Source Connectors (有時也稱為 Adobe Data Connectors) 受到 Adobe 的完全支援。
 
 ## 為什麼 Adobe 終止了這項功能？
 
