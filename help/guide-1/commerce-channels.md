@@ -2,7 +2,7 @@
 title: Adobe Commerce 管道管理員擴充功能
 description: 了解 Adobe Commerce 管道管理員擴充功能的生命週期何時結束。
 source-git-commit: 08c3b323fcff5630b5165946508689c5556e54b5
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
