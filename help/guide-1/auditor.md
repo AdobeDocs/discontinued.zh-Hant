@@ -1,11 +1,11 @@
 ---
-title: 「[!DNL Adobe Experience Platform Auditor] 生命週期結束」
+title: '[!DNL Adobe Experience Platform Auditor]生命週期結束'
 description: 此文件涵蓋  [!DNL Adobe Experience Platform Auditor] 及其後續版本。
 exl-id: 326ae443-2974-4f0c-8c16-bfd2b8a6a70c
 source-git-commit: 53a6f97bed42b22e77d3fb0cd72c08a6418b2e9f
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 

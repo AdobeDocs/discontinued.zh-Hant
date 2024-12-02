@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Adobe Livefyre]服務結束'
+title: '[!DNL Adobe Livefyre] 服務終止'
 description: Livefyre 和 Livefyre Studio 的 Livefyre 服務終止提醒。
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
 source-git-commit: 05a624f7ba8863b50e86dac1ee5d92782be31737
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 99%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

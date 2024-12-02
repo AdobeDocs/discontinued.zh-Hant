@@ -1,11 +1,11 @@
 ---
-title: 「[!DNL Adobe Search&Promote] 服務終止公告」
+title: '[!DNL Adobe Search&Promote] 服務終止公告'
 description: 了解更多關於  [!DNL Adobe Search&Promote] 服務終止的公告。
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
