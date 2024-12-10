@@ -1,22 +1,22 @@
 ---
 keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;生命週期結束
-title: '[!DNL Device Co-op] 生命週期結束常見問題集'
+title: '[!DNL Device Co-op] 生命週期結束常見問題'
 description: 了解 Device Co-op 的生命週期結束計劃。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 2e33e76c0fbb45661fd92297b0f91e5b8f304b6c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1048'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# [!DNL Device Co-op] 生命週期結束常見問題集
+# [!DNL Device Co-op] 生命週期結束常見問題
 
 此文件提供有關 [!DNL Adobe Experience Cloud Device Co-op] 生命週期結束 (EOL) 計劃的常見問題解答。當此計劃生效後，Adobe 將於 [Experience Cloud 版本資訊](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)和[優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)中提供進一步的通知。
 
 [!DNL Device Co-op] 方案可讓參與者共同努力，以更好地識別各種數位接觸點中的消費者，同時確保最高等級的隱私和透明度。
 
-## 常見問題集
+## 常見問題
 
 以下是有關 [!DNL Device Co-op] EOL 計劃的常見問題解答清單。
 
