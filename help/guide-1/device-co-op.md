@@ -4,9 +4,9 @@ title: '[!DNL Device Co-op] 生命週期結束常見問題'
 description: 了解 Device Co-op 的生命週期結束計劃。
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: f259a6d2bac47e9cf3a829017642119357208c7c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1048'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 - [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
 - [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=zh-Hant)
-- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising.html?lang=en)
+- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising.html?lang=zh-Hant)
 - [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=zh-Hant)
 
 ## 有哪些選項可用來替代 [!DNL Device Co-op]？
