@@ -29,9 +29,9 @@ Mobile Services 的生命週期已於 2022 年 12 月 31 日結束。在此日�
 
 ## 在 Mobile Services 中建立的現有處理規則會如何處理？
 
-在 Mobile Services UI 中建立或產生的[處理規則](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html)會在 Mobile Services 生命週期結束日期之前，自動移轉到 Adobe Analytics。所移轉的處理規則之行為與 Adobe Analytics 的其他處理規則類似，您可以自由檢視或編輯規則。此移轉不需要使用者執行任何操作。
+在 Mobile Services UI 中建立或產生的[處理規則](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=zh-Hant)會在 Mobile Services 生命週期結束日期之前，自動移轉到 Adobe Analytics。所移轉的處理規則之行為與 Adobe Analytics 的其他處理規則類似，您可以自由檢視或編輯規則。此移轉不需要使用者執行任何操作。
 
-淘汰 Mobile Services 後，所有處理規則邏輯將在 Adobe Analytics 內專門處理，通常包括使用[內容資料變數](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/contextdata.html)。
+淘汰 Mobile Services 後，所有處理規則邏輯將在 Adobe Analytics 內專門處理，通常包括使用[內容資料變數](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/contextdata.html?lang=zh-Hant)。
 
 ## 有哪些可以選擇的轉換選項？
 
@@ -39,7 +39,7 @@ Adobe 會根據您組織的使用案例，提供三種轉換路徑。
 
 1. **應用程式內傳送訊息和推播通知**：Adobe 可以將您的傳送訊息工作流程轉換至 Adobe Journey Optimizer。此產品可協助組織將整個客戶歷程 (包括行動傳訊) 的體驗最佳化及個人化。
 1. **擷取和深度連接**：透過 Adobe Exchange Premier Partners 計畫，提供擷取和深度連接。Adobe 的合作夥伴團隊可以適當地介紹，確保您能找到最符合需求的解決方案。
-1. **Places Service**：Places Service 提供免費的地理位置定位功能。請參閱 [Places Service 文件](https://experienceleague.adobe.com/docs/places/using/home.html)。
+1. **Places Service**：Places Service 提供免費的地理位置定位功能。請參閱 [Places Service 文件](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hant)。
 
 ## 如果我有疑問，可以去哪裡找資訊？
 
