@@ -1,15 +1,16 @@
 ---
-title: 隱藏測試
-description: 此為隱藏測試
+title: 隱藏的測試
+description: 這是隱藏的測試
 hide: true
 hidefromtoc: true
-source-git-commit: 9ef7d52223c952376e47da8ef21738b7e4ea1056
-workflow-type: tm+mt
+exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
+source-git-commit: c909d96655e948d8d82ace5c1a349b385d7db3b3
+workflow-type: ht
 source-wordcount: '14'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 隱藏測試
+# 隱藏的測試
 
-此為隱藏測試。
+這是隱藏的測試。
