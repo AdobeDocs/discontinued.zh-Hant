@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
 source-git-commit: 0a4857ff7e100c64a73b1e0fc607e6a89989be4e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '17'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 82%
 
 這是隱藏的測試。
 
-## 幻燈片
+## 投影片
 
 語法：
 
@@ -24,6 +24,6 @@ ht-degree: 82%
 https://experienceleague-stage.adobe.com/en/slides/analyze-project
 ```
 
-已呈現：
+轉譯：
 
 >[!SLIDE](analyze-project)
