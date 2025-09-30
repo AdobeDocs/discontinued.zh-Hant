@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Livefyre] 服務終止'
 description: Livefyre 和 Livefyre Studio 的 Livefyre 服務終止提醒。
 exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
-source-git-commit: 05a624f7ba8863b50e86dac1ee5d92782be31737
+source-git-commit: b4cb8ec97301294acfb8e4d03dcf75441c175d2b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 93%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 0%
 
 ### **_我可以聯絡誰來了解更多資訊？_**
 
-如有任何疑問，請聯繫您的 CSM (客戶成功經理) 或 Shelly Chiang (schiang@adobe.com)。
+如有任何問題，請聯絡您的CSM （客戶成功經理）或Shelly Chiang (`schiang@adobe.com`)。
