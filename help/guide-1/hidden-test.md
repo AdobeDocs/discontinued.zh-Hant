@@ -4,16 +4,16 @@ description: 這是隱藏的測試
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 6d5ca49ae613ba51468a4e1a7766dc92992ead08
+source-git-commit: 32514db7ecdf26a4aea9270b776b3c6e2fe0e354
 workflow-type: tm+mt
-source-wordcount: '35'
-ht-degree: 57%
+source-wordcount: '39'
+ht-degree: 38%
 
 ---
 
 # 隱藏的測試
 
-這是隱藏的測試。
+此為隱藏測試。  它不應該出現。
 
 
 ## 暫留文字測試
