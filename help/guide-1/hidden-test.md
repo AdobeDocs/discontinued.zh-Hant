@@ -4,10 +4,10 @@ description: 這是隱藏的測試
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: fdcc74a0636e2de1f3e2fd751a09f8d19f9994b9
+source-git-commit: f44cf6b15dd54f8a9671957d4fc11594bdd75987
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 30%
+source-wordcount: '58'
+ht-degree: 25%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 30%
 
 此為隱藏測試。  它不應該出現在搜尋中。
 
-Bob在此參加Sprint展示。
+Bob來這裡是為了進行短跑展示，並在Lakshay將階段投入生產後再次參加……
 
 Ajay當時在這裡。
 
