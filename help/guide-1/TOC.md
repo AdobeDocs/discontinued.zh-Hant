@@ -2,10 +2,10 @@
 user-guide-title: 已經終止的  [!DNL Adobe Experience Cloud] 產品
 breadcrumb-title: 已經終止的產品
 user-guide-description: 已經終止的  [!DNL Adobe Experience Cloud] 產品清單。
-source-git-commit: 2bab1618c570e3b50d9aa51ca7eaf6019188f76b
+source-git-commit: b0413181849b60169cac898c955d9e6f97f973dd
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 84%
+source-wordcount: '54'
+ht-degree: 79%
 
 ---
 
@@ -29,3 +29,4 @@ ht-degree: 84%
 + 隱藏部分 {#hidden-section}
    + [隱藏的檔案1](hidden-section-1.md)
    + [隱藏的檔案2](hidden-section-2.md)
+   + [隱藏的檔案3](hidden-section-3.md)
