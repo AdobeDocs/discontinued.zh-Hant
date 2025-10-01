@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### **_Adobe 是否有用於網站搜尋和商業搜尋的替代選項？_**
 
-有。對於產品和商業搜尋，[ [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=zh-Hant) 中的 Live Search 是 Adobe 未來的搜尋應用程式。
+有。對於產品和商業搜尋，[[!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=zh-Hant) 中的 Live Search 是 Adobe 未來的搜尋應用程式。
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
