@@ -6,7 +6,7 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 700d6e5dfa07d4b351af5fbd30635d165affd248
+source-git-commit: 70caa41f852752f2dd5d55b9070bdd2459cecc77
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 26%
@@ -19,7 +19,7 @@ ht-degree: 26%
 
 Bob來這裡是為了進行短跑展示，並在Lakshay將階段投入生產後再次參加……
 
-10月2日
+10月6日
 
 ## 暫留文字測試
 
