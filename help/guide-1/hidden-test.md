@@ -5,11 +5,12 @@ hide: true
 hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
+feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c901ef4b1607a3d03a995b8e6ada5860ae587706
+source-git-commit: 89046c442b4cc4af0b8d205e2aea0554db75720d
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 26%
+source-wordcount: '66'
+ht-degree: 18%
 
 ---
 
@@ -19,7 +20,7 @@ ht-degree: 26%
 
 Bob來這裡是為了進行短跑展示，並在Lakshay將階段投入生產後再次參加……
 
-10月16日
+10月22日
 
 ## 暫留文字測試 {#this-is-a-heading-anchor}
 
@@ -51,6 +52,8 @@ https://experienceleague-stage.adobe.com/en/slides/analyze-project
 
 轉譯：
 
+<!--
 >[!SLIDE](analyze-project)
+-->
 
-Bob 在這裡
+Bob：測試主題位置後，請移除投影片註解。
