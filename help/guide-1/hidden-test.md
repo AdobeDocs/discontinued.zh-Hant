@@ -7,18 +7,18 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 0f37cc8cfe6eaacc33ef3ba1af1ed4fc3ef3a607
+source-git-commit: 5eb20f67529727dc9f9d389b64ca042b8e415a9e
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 15%
+source-wordcount: '83'
+ht-degree: 14%
 
 ---
 
 # 隱藏的測試
 
-此為隱藏測試。  它不應該出現在搜尋中。
+此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作。
 
-Bob來這裡是為了進行短跑展示，並在Lakshay將階段投入生產後再次參加……
+Bob來這裡是為了進行短跑展示，並在Lakshay將階段投入生產後再次參加。
 
 10月22日， Bob和Sarika一次又一次地來到這裡！
 
