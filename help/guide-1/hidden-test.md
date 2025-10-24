@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 5eb20f67529727dc9f9d389b64ca042b8e415a9e
+source-git-commit: b8cacb7fbfa25083c87079bce67ee9c80c81ae84
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '98'
 ht-degree: 14%
 
 ---
@@ -21,6 +21,18 @@ ht-degree: 14%
 Bob來這裡是為了進行短跑展示，並在Lakshay將階段投入生產後再次參加。
 
 10月22日， Bob和Sarika一次又一次地來到這裡！
+
+## 相對連結
+
+* [概觀](overview.md)
+* [Search和Promote](search-promote.md)
+* [Social](social.md)
+
+## 明確深層連結
+
+[其他總覽(root)](/help/guide-1/overview.md#additional-products)
+
+[其他概述](overview.md#additional-products)
 
 ## 暫留文字測試 {#this-is-a-heading-anchor}
 
