@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: b8cacb7fbfa25083c87079bce67ee9c80c81ae84
+source-git-commit: c5ce9a3708541560e86ccad5b1407788b570fd96
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 14%
+source-wordcount: '103'
+ht-degree: 13%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 14%
 此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作。
 
 Bob來這裡是為了進行短跑展示，並在Lakshay將階段投入生產後再次參加。
+
+Matt於10月28日在這裡。
 
 10月22日， Bob和Sarika一次又一次地來到這裡！
 
