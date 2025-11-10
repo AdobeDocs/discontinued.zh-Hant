@@ -26,22 +26,22 @@ ht-degree: 4%
 
 | 任務 | 說明 |
 | -----------| ---------- |
-| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
-| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js)JavaScript實作`AppMeasurement.js`指南。) |
+| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=zh-Hant) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=zh-Hant)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
+| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=zh-Hant)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=zh-Hant#js)JavaScript實作`AppMeasurement.js`指南。) |
 
 **兩個額外的空格**
 
 | 任務 | 說明 |
 | -----------| ---------- |
-| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
-| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js)JavaScript實作`AppMeasurement.js`指南。) |
+| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=zh-Hant) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=zh-Hant)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
+| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=zh-Hant)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=zh-Hant#js)JavaScript實作`AppMeasurement.js`指南。) |
 
 **標頭分隔線後面沒有額外的空格**
 
 | 任務 | 說明 |
 | -----------| ---------- |
-| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
-| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js)JavaScript實作`AppMeasurement.js`指南。) |
+| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=zh-Hant) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=zh-Hant)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
+| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=zh-Hant)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=zh-Hant#js)JavaScript實作`AppMeasurement.js`指南。) |
 
 ## 相對連結
 
