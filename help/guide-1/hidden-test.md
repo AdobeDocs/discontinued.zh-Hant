@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: ee1a5052cfd3f3920a2d4d283c06d2d5dfa53704
+source-git-commit: fe047becf693716e042bb5ed064546e14e460e75
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '322'
 ht-degree: 4%
 
 ---
@@ -18,11 +18,7 @@ ht-degree: 4%
 
 此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作。
 
-Bob來這裡是為了進行短跑展示，並在Lakshay將階段投入生產後再次參加。
-
-Matt於10月28日在這裡。
-
-未收到Slack通知 — sarikaaaa.. 測試11月5日不要傳送
+2025年11月9日
 
 ## 資料表錯誤
 
@@ -30,22 +26,22 @@ Matt於10月28日在這裡。
 
 | 任務 | 說明 |
 | -----------| ---------- |
-| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=zh-Hant) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=zh-Hant)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
-| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=zh-Hant)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=zh-Hant#js)JavaScript實作`AppMeasurement.js`指南。) |
+| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
+| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js)JavaScript實作`AppMeasurement.js`指南。) |
 
 **兩個額外的空格**
 
 | 任務 | 說明 |
 | -----------| ---------- |
-| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=zh-Hant) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=zh-Hant)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
-| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=zh-Hant)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=zh-Hant#js)JavaScript實作`AppMeasurement.js`指南。) |
+| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
+| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js)JavaScript實作`AppMeasurement.js`指南。) |
 
 **標頭分隔線後面沒有額外的空格**
 
 | 任務 | 說明 |
 | -----------| ---------- |
-| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=zh-Hant) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=zh-Hant)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
-| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=zh-Hant)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=zh-Hant#js)JavaScript實作`AppMeasurement.js`指南。) |
+| [實作適用於Analytics的Experience Cloud ID服務](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe也建議設定其他[客戶ID](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html)。 這些ID與每個訪客相關聯，實現了Experience Cloud中現有和未來的功能。 |
+| 將您現有的`s_code`更新為H.27.3或更新版本，或將您現有的`AppMeasurement.js`更新為1.4或更新版本。 | 這些檔案可在Analytics管理工具的[代碼管理器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html)中下載。 (如果您需要有關[的詳細資訊，請參閱](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js)JavaScript實作`AppMeasurement.js`指南。) |
 
 ## 相對連結
 
