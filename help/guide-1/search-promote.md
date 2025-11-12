@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Search&Promote] 服務終止公告'
 description: 了解更多關於  [!DNL Adobe Search&Promote] 服務終止的公告。
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### **_Adobe 是否有用於網站搜尋和商業搜尋的替代選項？_**
 
-有。對於產品和商業搜尋，[[!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=zh-Hant) 中的 Live Search 是 Adobe 未來的搜尋應用程式。
+有。對於產品和商業搜尋，[ [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=zh-Hant) 中的 Live Search 是 Adobe 未來的搜尋應用程式。
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 

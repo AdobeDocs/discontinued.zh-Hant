@@ -2,7 +2,7 @@
 description: Adobe Experience Cloud 資料庫是通用的集中管理體驗，可讓您跨越不同 Adobe Experience Cloud 解決方案儲存、尋找及選取資產。
 title: Adobe Experience Cloud 資料庫
 exl-id: 4f1bb155-66f9-492f-9902-686c2758d341
-source-git-commit: 670d90c79523826416eb9564b7835e27ad5cb286
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
@@ -15,5 +15,6 @@ ht-degree: 100%
 
 **相關功能**
 
-* [Experience Cloud Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html?lang=zh-Hant){target=_blank}
-* [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=zh-Hant){target=_blank}
+* [Experience Cloud Assets](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html){target=_blank}
+* [AEM Assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html){target=_blank}
+

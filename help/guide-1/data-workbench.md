@@ -2,7 +2,7 @@
 title: '[!DNL Data Workbench]生命週期結束'
 description: 本文件說明  [!DNL Data Workbench] 生命週期結束常見問題。
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
-source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 99%
@@ -42,3 +42,4 @@ Adobe 目前提供以下 Adobe Experience Platform 解決方案來滿足與 Data
 ## 在那裡可以找到更多資訊？
 
 如需有關此[生命週期結束公告](https://express.adobe.com/page/GSu6oKOD88GAj/)的任何詳細資訊或對此有相關問題，請聯絡您組織的 Adobe 帳戶經理。
+
