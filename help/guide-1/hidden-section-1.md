@@ -1,12 +1,13 @@
 ---
 title: 隱藏的第1區段測試
 description: 這是隱藏測試1
+auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 78fd2d5e219c4acf0199d5bb527a3b5c3561def2
 workflow-type: tm+mt
-source-wordcount: '30'
-ht-degree: 10%
+source-wordcount: '34'
+ht-degree: 8%
 
 ---
 
@@ -18,3 +19,10 @@ ht-degree: 10%
 
 Matt曾在這裡
 
+## 無成績單
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+
+## 成績單true
+
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
