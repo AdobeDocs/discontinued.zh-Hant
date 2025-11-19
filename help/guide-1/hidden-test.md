@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dde6a1c269865b6baec6e073a25a3dbd817d3d07
+source-git-commit: dde8fa9bd3747559f475710a5d523223221853ed
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 14%
+source-wordcount: '197'
+ht-degree: 7%
 
 ---
 
@@ -18,7 +18,63 @@ ht-degree: 14%
 
 此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作。
 
-2025年11月12日
+## 在新標籤中開啟
+
+`[See What's new](auditor.md) {target="_blank"}`
+
+[在同一個索引標籤中開啟](auditor.md)
+
+[含空格的新索引標籤](auditor.md) {target="_blank"}
+
+[含引號的新索引標籤](auditor.md){target="_blank"}，不含空格
+
+[含空格的新索引標籤，不含引號](auditor.md) {target=_blank}
+
+[不含引號的新索引標籤](auditor.md){target=_blank}
+
+[含深層連結的新索引標籤](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[具有外部連結的新索引標籤](https://www.adobe.com){target="_blank"}
+
+[新索引標籤根連結](/help/guide-1/auditor.md){target="_blank"}
+
+
+<table>
+  <tr>
+    <th>帶引號</a></th>
+    <th>不含引號</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com" target="_blank">Adobe新索引標籤</a></td>
+    <td><a href="https://www.adobe.com" target="_blank">Adobe新索引標籤</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com">Adobe沒有新標籤</a></td>
+    <td><a href="https://www.adobe.com">Adobe沒有新標籤</td>
+  </tr>
+</table>
+
+## 註解測試
+
+2025年11月18日
+
+請在下方註解。 如果您是在本文中看到的最後一件事，則是因為註解語法。
+
+1. 按一下&#x200B;**[!UICONTROL Create]**。
+
+<!-- ## Create an exclusion using Advanced Search
+
+You can also create exclusions using [!UICONTROL Advanced Search] on the [Catalog Search](/help/main/c-recommendations/c-products/catalog-search.md#save-as) page ( [!UICONTROL Recommendations] > [!UICONTROL Catalog Search] > [!UICONTROL Advanced Search]). 
+
+![Save as dialog](/help/main/c-recommendations/c-products/assets/save-as.png)
+
+After creating a search using "id > contains," for example, you can then click [!UICONTROL Save As] > [!UICONTROL Exclusion].
+
+>[!IMPORTANT]
+>
+>The [!UICONTROL Advanced Search] functionality is case-insensitive; however, products returned at the time of delivery are based on case-sensitive search. This mismatch might lead to confusion. Ensure that you consider case-sensitivity when you create exclusions based on results using the Advanced Search functionality. For example, if you perform a search for "Holiday," that initial search lists results containing "Holiday" and "holiday." If you then create an exclusion with the intent to exclude products containing "holiday," only products containing "holiday" are excluded. Products containing "Holiday" are not excluded. -->
+
+此行在註解之後。
 
 ## 視訊測試
 
