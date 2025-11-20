@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dde8fa9bd3747559f475710a5d523223221853ed
+source-git-commit: 9fa70e77b7c9658f618410ab6045fa680df606e0
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 7%
+source-wordcount: '207'
+ht-degree: 6%
 
 ---
 
@@ -20,19 +20,23 @@ ht-degree: 7%
 
 ## 在新標籤中開啟
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [在同一個索引標籤中開啟](auditor.md)
 
-[含空格的新索引標籤](auditor.md){target="_blank"} 
+[含空格的新索引標籤](auditor.md) {target="_blank"}
+
+[含錨點的新索引標籤](auditor.md#_blank)
 
 [含引號的新索引標籤](auditor.md){target="_blank"}，不含空格
 
-[含空格的新索引標籤，不含引號](auditor.md){target=_blank} 
+[含空格的新索引標籤，不含引號](auditor.md) {target=_blank}
 
 [不含引號的新索引標籤](auditor.md){target=_blank}
 
 [含深層連結的新索引標籤](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[錨點含有深層連結的新索引標籤](commerce-channels.md#channel-manager-extension#_blank)
 
 [具有外部連結的新索引標籤](https://www.adobe.com){target="_blank"}
 
