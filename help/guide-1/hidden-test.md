@@ -7,7 +7,7 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 8c80f9c127f13aa2b5dbf860bd099b46e3321cbf
+source-git-commit: 32a5873bea2428daa2d432234fc005641523d35c
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 6%
@@ -16,27 +16,27 @@ ht-degree: 6%
 
 # 隱藏的測試
 
-此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作。
+此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作！
 
 ## 在新標籤中開啟
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [在同一個索引標籤中開啟](auditor.md)
 
-[含空格的新索引標籤](auditor.md){target="_blank"} 
+[含空格的新索引標籤](auditor.md) {target="_blank"}
 
 [含錨點的新索引標籤](auditor.md#_blank)
 
 [含引號的新索引標籤](auditor.md){target="_blank"}，不含空格
 
-[含空格的新索引標籤，不含引號](auditor.md){target=_blank} 
+[含空格的新索引標籤，不含引號](auditor.md) {target=_blank}
 
 [不含引號的新索引標籤](auditor.md){target=_blank}
 
 [含深層連結的新索引標籤](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[用深層連結錨定新索引標籤](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/home#key-analytics-resources#_blank)
+[用深層連結錨定新索引標籤](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources#_blank)
 
 [具有外部連結的新索引標籤](https://www.adobe.com){target="_blank"}
 
