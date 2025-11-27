@@ -20,23 +20,23 @@ ht-degree: 6%
 
 ## 在新標籤中開啟 {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [在同一個索引標籤中開啟](auditor.md)
 
-[含空格的新索引標籤](auditor.md){target="_blank"} 
+[含空格的新索引標籤](auditor.md) {target="_blank"}
 
-[含錨點的新索引標籤](auditor.md){target=_blank}
+[含錨點的新索引標籤](auditor.md){target=&quot;_blank}
 
 [含引號的新索引標籤](auditor.md){target="_blank"}，不含空格
 
-[含空格的新索引標籤，不含引號](auditor.md){target=_blank} 
+[含空格的新索引標籤，不含引號](auditor.md) {target=_blank}
 
 [不含引號的新索引標籤](auditor.md){target=_blank}
 
 [含深層連結的新索引標籤](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[用深層連結錨定新索引標籤](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[用深層連結錨定新索引標籤](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [具有外部連結的新索引標籤](https://www.adobe.com){target="_blank"}
 
