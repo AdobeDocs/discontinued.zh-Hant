@@ -38,7 +38,7 @@ ht-degree: 6%
 
 [含深層連結的新索引標籤](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[用深層連結錨定新索引標籤](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[用深層連結錨定新索引標籤](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [具有外部連結的新索引標籤](https://www.adobe.com){target="_blank"}
 
