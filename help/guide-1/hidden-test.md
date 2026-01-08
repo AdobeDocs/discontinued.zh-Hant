@@ -7,16 +7,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
 # 隱藏的測試
 
-12月2日
+1月8日
 
 此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作！
 
@@ -73,7 +73,7 @@ Second new line. -->
 
 請在下方註解。 如果您是在本文中看到的最後一件事，則是因為註解語法。
 
-1. 按一下&#x200B;**[!UICONTROL Create]**。
+1. 按一下 **[!UICONTROL Create]**。
 
 <!-- ## Create an exclusion using Advanced Search
 
