@@ -6,17 +6,18 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
+hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f6e3d17e221850a71617abfb9f5e75c0e26b362f
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '219'
 ht-degree: 8%
 
 ---
 
 # 隱藏的測試
 
-1月26日 — Bob
+2026年2月2日 — `hold: true`已開啟。 哦，就是這樣！
 
 此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作！
 
@@ -150,4 +151,3 @@ https://experienceleague-stage.adobe.com/en/slides/analyze-project
 -->
 
 Bob：測試主題位置後，請移除投影片註解。
-
