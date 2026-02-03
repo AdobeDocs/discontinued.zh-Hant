@@ -8,9 +8,9 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
+source-git-commit: f38dd5701562d9e51256c50f766c7b03f253f279
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '223'
 ht-degree: 8%
 
 ---
@@ -18,28 +18,29 @@ ht-degree: 8%
 # 隱藏的測試
 
 2026年2月2日 — `hold: true`已開啟。 哦，就是這樣！
+2026年2月3日 — 馬特
 
 此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作！
 
 ## 在新標籤中開啟 {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [在同一個索引標籤中開啟](auditor.md)
 
-[含空格的新索引標籤](auditor.md){target="_blank"} 
+[含空格的新索引標籤](auditor.md) {target="_blank"}
 
-[含錨點的新索引標籤](auditor.md){target=_blank}
+[含錨點的新索引標籤](auditor.md){target=&quot;_blank}
 
 [含引號的新索引標籤](auditor.md){target="_blank"}，不含空格
 
-[含空格的新索引標籤，不含引號](auditor.md){target=_blank} 
+[含空格的新索引標籤，不含引號](auditor.md) {target=_blank}
 
 [不含引號的新索引標籤](auditor.md){target=_blank}
 
 [含深層連結的新索引標籤](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[用深層連結錨定新索引標籤](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[用深層連結錨定新索引標籤](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [具有外部連結的新索引標籤](https://www.adobe.com){target="_blank"}
 
