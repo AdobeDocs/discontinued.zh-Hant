@@ -4,16 +4,17 @@ description: 這是隱藏測試1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: bc2e4de9631fd091c6438c59ab51b1dbad607531
+hold: true
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 4%
+source-wordcount: '65'
+ht-degree: 6%
 
 ---
 
 # 隱藏區段測試1
 
-2025年11月24日
+2026年2月3日
 
 1. 移至此處
 
@@ -26,7 +27,7 @@ Second new line. -->
 
 請在下方註解。 如果您是在本文中看到的最後一件事，則是因為註解語法。
 
-1. 按一下&#x200B;**[!UICONTROL Create]**。
+1. 按一下 **[!UICONTROL Create]**。
 
 <!-- ## Create an exclusion using Advanced Search
 
