@@ -26,5 +26,5 @@ ht-degree: 64%
 + [Search&amp;Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Adobe Commerce 的 Store Fulfillment](/help/guide-1/commerce-store-fulfillment.md)
-+ {hide-from-toc}[隱藏測試 — 2月](/help/guide-1/hidden-test.md)
-+ {hide-from-toc}[隱藏測試 — 新](hidden-section-1.md)
++ [hide-from-toc隱藏測試 — 2月](/help/guide-1/hidden-test.md)
++ [hide-from-toc隱藏測試 — 新](hidden-section-1.md)
