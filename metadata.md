@@ -4,21 +4,21 @@ solution: Experience Cloud
 product: experience cloud
 type: Documentation
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/discontinued.zh-Hant
+git-repo: https://github.com/AdobeDocs/discontinued.en
 auto-video-transcripts: true
 index: true
 debug: true
 author: various
-source-git-commit: da88987d86343e1285387bce1d323ea0a49bd66f
+source-git-commit: 59815260eeeaffbae1f5ebff4bbb24848bc34f4d
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '68'
+ht-degree: 0%
 
 ---
 
 
-# 中繼資料僅供內部使用
+# 內部使用的中繼資料
 
-metadata.md 檔案內含存放庫等級的中繼資料，會在存放庫中傳遞至使用手冊 TOC.md 檔案。若要變更任何使用手冊的 metadata.md 內容，請在任何 TOC.md 檔案中變更。
+metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。
 
-如需&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**類型**&#x200B;的有效值清單，請參閱[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)。
+請參閱[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)，以取得&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**型別**&#x200B;的有效值清單。
