@@ -3,16 +3,16 @@ title: 隱藏的第1區段測試
 description: 這是隱藏測試1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '70'
 ht-degree: 5%
 
 ---
 
 # 隱藏區段測試1
 
-2026年3月10日 — 這篇文章沒有`hold: true`
+2026年3月10日，9:25 — 此文章沒有`hold: true`
 
 1. 移至此處
 
