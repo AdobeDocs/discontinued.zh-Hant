@@ -8,16 +8,16 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '234'
 ht-degree: 8%
 
 ---
 
 # 隱藏的測試
 
-2026年3月10日 — `hold: true`已開啟。
+2026年3月10日，9:25 - `hold: true`已開啟。
 
 測試新金鑰
 
@@ -25,23 +25,23 @@ ht-degree: 8%
 
 ## 在新標籤中開啟 {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [在同一個索引標籤中開啟](auditor.md)
 
-[含空格的新索引標籤](auditor.md){target="_blank"} 
+[含空格的新索引標籤](auditor.md) {target="_blank"}
 
-[含錨點的新索引標籤](auditor.md){target=_blank}
+[含錨點的新索引標籤](auditor.md){target=&quot;_blank}
 
 [不帶引號空格的新索引標籤](auditor.md){target="_blank"}
 
-[含空格的新索引標籤，不含引號](auditor.md){target=_blank} 
+[含空格的新索引標籤，不含引號](auditor.md) {target=_blank}
 
 [不帶引號的新索引標籤](auditor.md){target=_blank}
 
 [具有深層連結的新標籤](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[錨點含有深層連結的新索引標籤](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[錨點含有深層連結的新索引標籤](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [具有外部連結的新索引標籤](https://www.adobe.com){target="_blank"}
 
