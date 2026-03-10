@@ -8,20 +8,18 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
+source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '233'
 ht-degree: 8%
 
 ---
 
 # 隱藏的測試
 
-2026年3月4日 — `hold: true`已開啟。
+2026年3月10日 — `hold: true`已開啟。
 
 測試新金鑰
-
-2月11日：測試保留。
 
 此為隱藏測試。 我正在新增此`[`，以確定其在v2轉譯中可正常運作！
 
