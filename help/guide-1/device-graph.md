@@ -2,8 +2,7 @@
 keywords: 裝置圖表；生命週期結束
 title: 裝置圖表
 description: 瞭解裝置圖表的生命週期結束計畫。
-hold: true
-source-git-commit: 0ebe153e886f375683ff3fc3a06514617988894b
+source-git-commit: 6d27883347049957d35070dd5c5bf5b223144470
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 2%
