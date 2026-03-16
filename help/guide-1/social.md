@@ -2,15 +2,17 @@
 title: '[!DNL Adobe Social] 產品文件'
 description: '[!DNL Adobe Social] 使用手冊資源'
 exl-id: 48527ae3-bc6a-4f30-9309-701bb2be0650
-source-git-commit: 37c91c7a347feb988d535eec0dfc2ec6ba94ddd3
+source-git-commit: c0042ee5e665e06c3166ce3e01cfe578ebf4ea77
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 73%
+source-wordcount: '57'
+ht-degree: 70%
 
 ---
 
 # [!DNL Social Product] 文件
 
-自 2020 年 1 月 30 日起，Adobe 已正式淘汰 [!DNL Adobe Social] 產品。使用者無法再存取此產品。
+自 2020 年 1 月 30 日起，Adobe 已正式淘汰 [!DNL Adobe Social] 產品。 使用者無法再存取此產品。
 
-對於想要購買 [!DNL Social Media Management] 平台的客戶，Adobe 已經與領先的社交媒體管理供應商合作。如果您想要連絡人，請移至<https://exchange.adobe.com/>取得資訊。
+對於想要購買 [!DNL Social Media Management] 平台的客戶，Adobe 已經與領先的社交媒體管理供應商合作。 如果您想要連絡人，請移至<https://exchange.adobe.com/>取得資訊。
+
+2026年3月16日
