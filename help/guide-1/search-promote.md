@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Search&Promote] 服務終止公告'
 description: 了解更多關於  [!DNL Adobe Search&Promote] 服務終止的公告。
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
@@ -36,3 +36,4 @@ Also, both [AWS](https://aws.amazon.com/cloudsearch/) and [Microsoft&reg; Azure]
 ### **_我可以聯絡誰來了解更多資訊？_**
 
 如有任何疑問，請聯繫您的客戶成功經理 (CSM) 或是聯絡 Adobe 團隊：[searchquestions@adobe.com](mailto:searchquestions@adobe.com)。
+
