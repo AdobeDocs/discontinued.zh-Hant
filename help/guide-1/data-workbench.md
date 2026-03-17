@@ -2,9 +2,9 @@
 title: '[!DNL Data Workbench]生命週期結束'
 description: 本文件說明  [!DNL Data Workbench] 生命週期結束常見問題。
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
-source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '431'
 ht-degree: 99%
 
 ---
@@ -21,11 +21,11 @@ Data Workbench 的生命週期結束日期為 **2023 年 12 月 31 日**。
 
 隨著 Adobe Experience Platform 的發行和持續改進，客戶可以跨管道結合資料，並用於多個 Adobe 解決方案中。 具體來說，[Customer Journey Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=zh-Hant) 允許您獲取跨管道資料並對該資料執行進階分析。
 
-Data Workbench 中目前可用的大多數功能和使用案例目前在 Adobe Experience Platform 解決方案中均可用。 但是，在有限的情況下，Data Workbench 功能不會隨個別的 Adobe Experience Platform 解決方案一起複寫。請聯繫您組織的 Adobe 帳戶經理，討論特定領域的功能或使用案例相容性。
+Data Workbench 中目前可用的大多數功能和使用案例目前在 Adobe Experience Platform 解決方案中均可用。 但是，在有限的情況下，Data Workbench 功能不會隨個別的 Adobe Experience Platform 解決方案一起複寫。 請聯繫您組織的 Adobe 帳戶經理，討論特定領域的功能或使用案例相容性。
 
 ## Adobe 對於內部部署有何指引？
 
-我們鼓勵客戶移往目前的 Adobe 解決方案以進行進階分析。 舊版永久授權客戶可以決定繼續使用 Data Workbench。 但是，Adobe 沒有支援或更新該產品的計劃，包括嚴重錯誤或安全性漏洞。在 Data Workbench 的生命週期結束日期之後繼續使用內部部署的 Data Workbench 的風險由您的組織自行承擔。
+我們鼓勵客戶移往目前的 Adobe 解決方案以進行進階分析。 舊版永久授權客戶可以決定繼續使用 Data Workbench。 但是，Adobe 沒有支援或更新該產品的計劃，包括嚴重錯誤或安全性漏洞。 在 Data Workbench 的生命週期結束日期之後繼續使用內部部署的 Data Workbench 的風險由您的組織自行承擔。
 
 ## 我可以購買諮詢服務來幫助使用 Data Workbench 嗎？
 
@@ -42,4 +42,3 @@ Adobe 目前提供以下 Adobe Experience Platform 解決方案來滿足與 Data
 ## 在那裡可以找到更多資訊？
 
 如需有關此[生命週期結束公告](https://express.adobe.com/page/GSu6oKOD88GAj/)的任何詳細資訊或對此有相關問題，請聯絡您組織的 Adobe 帳戶經理。
-
