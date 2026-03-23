@@ -2,7 +2,7 @@
 keywords: 裝置圖表；生命週期結束
 title: 裝置圖表
 description: 瞭解裝置圖表的生命週期結束計畫。
-source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
+source-git-commit: bb33d25c2f7f7fa7a3d133c9f9b7c89387ff78e4
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 2%
@@ -34,4 +34,3 @@ ht-degree: 2%
 * 不支援舊版Analytics ID。 系統只會連結具有Experience Cloud ID的訪客。
 * 如果您的組織使用「專屬圖表」，則新裝置最多需要24小時的銜接時間。
 * 不支援協力廠商裝置圖形。
-
