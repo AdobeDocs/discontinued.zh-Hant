@@ -25,17 +25,17 @@ ht-degree: 7%
 
 ## 在新標籤中開啟 {#section_92882928}
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [在同一個索引標籤中開啟](auditor.md)
 
-[含空格的新索引標籤](auditor.md) {target="_blank"}
+[含空格的新索引標籤](auditor.md){target="_blank"} 
 
-[含錨點的新索引標籤](auditor.md){target=&quot;_blank}
+[含錨點的新索引標籤](auditor.md){target=_blank}
 
 [不帶引號空格的新索引標籤](auditor.md){target="_blank"}
 
-[含空格的新索引標籤，不含引號](auditor.md) {target=_blank}
+[含空格的新索引標籤，不含引號](auditor.md){target=_blank} 
 
 [不帶引號的新索引標籤](auditor.md){target=_blank}
 
