@@ -9,16 +9,17 @@ auto-video-transcripts: true
 index: true
 debug: true
 author: various
-source-git-commit: 59815260eeeaffbae1f5ebff4bbb24848bc34f4d
+test: true
+source-git-commit: 5947c962b90153738b76e93755c9fd3408cd6347
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 76%
 
 ---
 
 
-# 內部使用的中繼資料
+# 內部專用中繼資料
 
-metadata.md檔案包含存放庫層級中繼資料，這些中繼資料會傳遞至存放庫中的使用手冊TOC.md檔案。 如果您想要變更任何使用手冊的metadata.md內容，請在任何TOC.md檔案中進行變更。
+metadata.md 檔案包含存放庫層級的中繼資料，會將以上資料傳遞至存放庫中的使用者指南 TOC.md 檔案。 若您想針對任何使用者指南，變更 metadata.md 的內容，請開啟任何 TOC.md 檔案，就能變更資料。
 
-請參閱[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)，以取得&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**型別**&#x200B;的有效值清單。
+請參閱[中繼資料](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)，以取得&#x200B;**解決方案**、**產品**&#x200B;和&#x200B;**類型**&#x200B;的有效值清單。
