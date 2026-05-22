@@ -1,11 +1,11 @@
 ---
-user-guide-title: Adobe Experience Cloud停產的產品
+user-guide-title: CX Enterprise停產的產品
 breadcrumb-title: 已經終止的產品
-user-guide-description: ' [!DNL Adobe Experience Cloud]的已中止產品清單'
-source-git-commit: 2406787e294816a812f4eaa97a3a7ba43b26c6a0
+user-guide-description: CX Enterprise停產產品清單
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 61%
+source-wordcount: '56'
+ht-degree: 62%
 
 ---
 
@@ -21,11 +21,9 @@ ht-degree: 61%
 + [Experience Cloud 資料庫](/help/guide-1/experience-cloud-library.md)
 + [Experience Platform Auditor](/help/guide-1/auditor.md)
 + [Livefyre](/help/guide-1/livefyre.md)
++ [Media SDK （1.x和2.x）](media-sdk.md)
 + [Mobile Services](/help/guide-1/mobile-services.md)
 + [Reports &amp; Analytics](/help/guide-1/reports-and-analytics.md)
 + [Search&amp;Promote](/help/guide-1/search-promote.md)
 + [Social](/help/guide-1/social.md)
 + [Adobe Commerce 的 Store Fulfillment](/help/guide-1/commerce-store-fulfillment.md)
-+ {hide-from-toc}[隱藏測試 — 2月](/help/guide-1/hidden-test.md)
-+ {hide-from-toc}[隱藏節1](hidden-section-1.md)
-+ {hide-from-toc}[隱藏的區段 — 2](/help/guide-1/hidden-section-2.md)
