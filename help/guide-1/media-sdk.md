@@ -57,7 +57,7 @@ Adobe也推出了Edge Network實作，以提供能供應多個下游Adobe應用�
 
 * [Media Edge Web SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
 * [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html)
+* [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=zh-Hant)
 
 ## 常見問答
 
@@ -120,6 +120,6 @@ Adobe建議您將所有新專案移轉至Edge Network實施。 如果您需要�
 
 >[!MORELIKETHIS]
 >
->* [串流媒體實作概觀](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html)
->* [適用於Edge Network的串流媒體](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html)
->* [Media SDK 3.x — JavaScript設定](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html)
+>* [串流媒體實作概觀](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html?lang=zh-Hant)
+>* [適用於Edge Network的串流媒體](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html?lang=zh-Hant)
+>* [Media SDK 3.x — JavaScript設定](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html?lang=zh-Hant)
