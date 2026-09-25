@@ -1,34 +1,39 @@
 ---
-title: 停產的CX Enterprise產品概觀
-description: CX Enterprise的停產、淘汰或終止產品概觀
+title: 已停產的CX Enterprise產品概觀
+description: CX Enterprise已停產、淘汰或停產產品概觀
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
+source-git-commit: 4056ba0953e81a279d25b15449c7b41a4a5eb7f9
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 80%
-
+source-wordcount: '471'
+ht-degree: 35%
 ---
-
 # 已停產的Adobe CX Enterprise產品概觀
 
 由於市場情況以及對客戶的影響不斷改變，Adobe 有時會停止銷售、開發或支援某項產品或技術。
 
 ## 已經終止的產品清單
 
-* [[!DNL Channels for Adobe Commerce]](commerce-channels.md)
-* [[!DNL Data Connectors]](data-connectors.md)
-* [[!DNL Data Workbench]](data-workbench.md)
-* [[!DNL Device Co-op]](device-co-op.md)
-* [[!DNL Device graph]](device-graph.md)
-* [[!DNL Experience Cloud Library]](experience-cloud-library.md)
-* [[!DNL Experience Platform Auditor]](auditor.md)
-* [[!DNL Livefyre]](livefyre.md)
-* [[!DNL Media SDK] （1.x和2.x）](media-sdk.md)
-* [[!DNL Mobile Services]](mobile-services.md)
-* [[!DNL Reports & Analytics]](reports-and-analytics.md)
-* [[!DNL Search&Promote]](search-promote.md)
-* [[!DNL Social]](social.md)
-* [[!DNL Store Fulfillment for Adobe Commerce]](commerce-store-fulfillment.md)
+下列產品和功能已終止服務、服務終止或淘汰。 如果存在專用頁面，請選取產品名稱以取得完整詳細資訊、移轉步驟和常見問答。
+
+| 產品 | 生命週期結束日期 | 建議的替代方案 |
+|---|---|---|
+| [[!DNL Analytics 1.4 APIs]](analytics-1-4-apis.md) | 2026年8月31日 | [[!DNL Adobe Analytics 2.0 APIs]](https://developer.adobe.com/analytics-apis/docs/2.0) |
+| [[!DNL Analytics Media SDK] （1.x和2.x）](media-sdk.md) | 2021年8月31日(2.x)<br>2017年7月25日(1.x) | [[!DNL Media SDK 3.x]](https://experienceleague.adobe.com/zh-hant/docs/media-analytics/using/implementation/overview)或[Edge Network的串流媒體](https://experienceleague.adobe.com/zh-hant/docs/media-analytics/using/implementation/edge/overview) |
+| [!DNL Bloodhound] | 2017年5月1日 | [[!DNL Adobe Experience Platform Assurance]](https://developer.adobe.com/client-sdks/home/base/assurance/) |
+| [[!DNL Channels for Adobe Commerce]](commerce-channels.md) | 2024年7月1日（頻道管理員）<br>2024年10月1日(Amazon Sales Channel) | [[!DNL Adobe Commerce Marketplace]](https://commercemarketplace.adobe.com/)夥伴擴充功能 |
+| [[!DNL Data Connectors]](data-connectors.md) | 2021年8月19日 | [[!DNL Adobe Exchange Marketplace]](https://exchange.adobe.com/apps/browse/ec?listingType=applications&page=1&partnerLevel=All&product=ANLYTC&sort=RELEVANCE) |
+| [[!DNL Data Workbench]](data-workbench.md) | 2023年12月31日 | [[!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/zh-hant/docs/customer-journey-analytics), [[!DNL Query Service]](https://experienceleague.adobe.com/docs/experience-platform/query/home.html?lang=zh-Hant), [[!DNL Data Prep]](https://experienceleague.adobe.com/docs/experience-platform/data-prep/home.html?lang=zh-Hant) |
+| [[!DNL Device Co-op]](device-co-op.md) | 2022 | [跨裝置分析（依欄位彙整）](https://experienceleague.adobe.com/zh-hant/docs/analytics/components/cda/field-based-stitching)，[[!DNL Real-Time CDP]](https://experienceleague.adobe.com/zh-hant/docs/real-time-customer-data-platform) |
+| [[!DNL Device graph]](device-graph.md) | 2025年12月31日 | [跨裝置分析欄位式銜接](https://experienceleague.adobe.com/zh-hant/docs/analytics/components/cda/field-based-stitching) |
+| [[!DNL Experience Cloud Library]](experience-cloud-library.md) | 2020 年 3 月 | [[!DNL CX Enterprise Assets]](https://experienceleague.adobe.com/docs/core-services/interface/services/assets/experience-cloud-assets.html?lang=zh-Hant), [[!DNL AEM Assets]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=zh-Hant) |
+| [!DNL Experience Manager Mobile] | 2021年4月3日 | [[!DNL AEM Sites] headless內容傳遞](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/headless/introduction) |
+| [[!DNL Experience Platform Auditor]](auditor.md) | 生命週期結束 | [[!DNL Experience Platform Debugger]](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=zh-Hant)瀏覽器延伸 |
+| [[!DNL Livefyre]](livefyre.md) | 2021年11月30日 | 透過[[!DNL Adobe Exchange]](https://exchange.adobe.com/)的Adobe合作夥伴解決方案 |
+| [[!DNL Mobile Services]](mobile-services.md) | 2022年12月31日 | [[!DNL Adobe Experience Platform Mobile SDK]](https://developer.adobe.com/client-sdks/home/), [[!DNL Adobe Journey Optimizer]](https://experienceleague.adobe.com/zh-hant/docs/journey-optimizer) |
+| [[!DNL Reports & Analytics]](reports-and-analytics.md) | 2024年1月17日 | [[!DNL Analysis Workspace]](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/home) |
+| [[!DNL Search&Promote]](search-promote.md) | 2022年9月1日 | [!DNL Adobe Commerce]的[[!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=zh-Hant) |
+| [[!DNL Social]](social.md) | 2020年1月30日 | 透過[[!DNL Adobe Exchange]](https://exchange.adobe.com/)的Adobe合作夥伴解決方案 |
+| [[!DNL Store Fulfillment for Adobe Commerce]](commerce-store-fulfillment.md) | 2024年2月 | [[!DNL Adobe Commerce Marketplace]](https://commercemarketplace.adobe.com/)夥伴擴充功能 |
 
 <!--
 ## Notifications of upcoming products to be discontinued
@@ -45,11 +50,6 @@ ht-degree: 80%
 * *[!DNL Bizible]* 現在稱為 *[!DNL Marketo Measure]*。
 * *[!DNL Primetime]* 現在稱為 *[!DNL Adobe Pass]*。
 
-## 其他已經終止的產品 {#additional-products}
-
-* *[!DNL Adobe Bloodhound]* 已於 2017 年 5 月 1 日停用。
-* *[!DNL AEM Mobile]* 已於 2021 年 4 月 3 日終止。 請參閱 [AEM Mobile 生命週期結束常見問題集](https://helpx.adobe.com/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html)。
-
 >[!MORELIKETHIS]
 >
->如需其他已終止的 Adobe 應用程式和服務的清單，請參閱[免費和已經終止的產品 | 支援選項](https://helpx.adobe.com/tw/support/programs/support-options-free-discontinued-apps-services.html)。
+>如需CX Enterprise以外停用的Adobe應用程式和服務清單，請參閱[免費和停用的產品 |支援選項](https://helpx.adobe.com/tw/support/programs/support-options-free-discontinued-apps-services.html)。

@@ -1,17 +1,15 @@
 ---
-title: Adobe Media SDK （1.x和2.x版）生命週期結束常見問題集
+title: Adobe Analytics Media SDK （1.x和2.x版）生命週期結束常見問題集
 description: 取得有關Adobe Media SDK 1.x和2.x版（原稱為視訊心率程式庫）終止的常見問題解答。
-source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
+source-git-commit: 4056ba0953e81a279d25b15449c7b41a4a5eb7f9
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1051'
 ht-degree: 0%
-
 ---
 
+# Adobe Analytics Media SDK （1.x和2.x版）生命週期結束常見問題集
 
-# Adobe Media SDK （1.x和2.x版）生命週期結束常見問題集
-
-Adobe Media SDK **2.x於2021年8月31日終止支援**。 視訊心率程式庫(VHL) **1.x已過時**，並且已有數年不受支援。
+Adobe Media SDK **2.x於2021年8月31日終止支援**。 視訊心率程式庫(VHL) **1.x於2017年7月25日終止支援**。
 
 ## 發生什麼事？
 
@@ -44,21 +42,21 @@ Adobe也推出了Edge Network實作，以提供能供應多個下游Adobe應用�
 
 | 版本 | 狀態 | 封存的檔案 |
 |---|---|---|
-| 1.x （視訊心率程式庫） | 已棄用 | [`video-heartbeat` GitHub存放庫](https://github.com/Adobe-Marketing-Cloud/video-heartbeat/tree/master/docs) |
+| 1.x （視訊心率程式庫） | 終止支援2017年7月25日 | [`video-heartbeat` GitHub存放庫](https://github.com/Adobe-Marketing-Cloud/video-heartbeat/tree/master/docs) |
 | 2.x (Media SDK) | 終止支援2021年8月31日 | [`media-sdks` GitHub存放庫](https://github.com/Adobe-Marketing-Cloud/media-sdks/blob/master/docs/2.x/README.md) |
 
 ## 什麼是轉換選項？
 
 **選項1：移轉至Media SDK 3.x （僅限Analytics）**
 
-如果您使用2.x，並專門使用Adobe Analytics，移轉至3.x是最簡單的路徑。 如需完整的API比較和程式碼範例，請參閱[2.x移轉至3.x指南](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=zh-Hant)。
+如果您使用2.x，並專門使用Adobe Analytics，移轉至3.x是最簡單的路徑。 如需完整的API比較和程式碼範例，請參閱[2.x移轉至3.x指南](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)。
 
 **選項2：移轉至Edge Network適用的串流媒體（建議）**
 
 若為新實作，或想在多個Adobe應用程式中使用資料，請使用Adobe Experience Platform Edge Network：
 
-* [Media Edge Web SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html?lang=zh-Hant)
-* [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=zh-Hant)
+* [Media Edge Web SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
+* [Media Edge Mobile SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
 * [Media Edge API](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=zh-Hant)
 
 ## 常見問答
@@ -77,7 +75,7 @@ Adobe也推出了Edge Network實作，以提供能供應多個下游Adobe應用�
 
 +++**我仍在Media SDK 2.x上。 我應該怎麼做？**
 
-Adobe建議您將所有新專案移轉至Edge Network實施。 如果您需要中繼步驟，請[從JavaScript SDK 2.x移轉至3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=zh-Hant)，然後計畫移至Edge Network。
+Adobe建議您將所有新專案移轉至Edge Network實施。 如果您需要中繼步驟，請[從JavaScript SDK 2.x移轉至3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)，然後計畫移至Edge Network。
 
 +++
 
@@ -85,8 +83,8 @@ Adobe建議您將所有新專案移轉至Edge Network實施。 如果您需要�
 
 移轉工作取決於每位客戶的實作，且會有所不同。 檢閱移轉檔案後，如需其他支援，請洽詢諮詢或客戶服務：
 
-* [使用行動Edge SDK — Android和iOS實作串流媒體](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=zh-Hant)
-* [從JavaScript SDK 2.x移轉至3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=zh-Hant)
+* [使用行動Edge SDK — Android和iOS實作串流媒體](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
+* [從JavaScript SDK 2.x移轉至3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)
 
 +++
 
@@ -98,13 +96,13 @@ Adobe建議您將所有新專案移轉至Edge Network實施。 如果您需要�
 
 +++**此支援終止是否會影響tvOS的SDK？**
 
-有。 tvOS （10以上版本）的建議實作方法是使用Adobe Experience Platform Mobile SDK移轉至Edge Network適用的串流媒體。 如需詳細資訊，請參閱[使用Mobile Edge SDK實作串流媒體](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=zh-Hant)。
+有。 tvOS （10以上版本）的建議實作方法是使用Adobe Experience Platform Mobile SDK移轉至Edge Network適用的串流媒體。 如需詳細資訊，請參閱[使用Mobile Edge SDK實作串流媒體](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)。
 
 +++
 
 +++**此支援終止是否會影響Fire TV和Android TV的SDK？**
 
-有。 Fire TV和Android TV的建議實作方法是使用Adobe Experience Platform Mobile SDK移轉至Edge Network適用的串流媒體。 如需詳細資訊，請參閱[使用Mobile Edge SDK實作串流媒體](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=zh-Hant)。
+有。 Fire TV和Android TV的建議實作方法是使用Adobe Experience Platform Mobile SDK移轉至Edge Network適用的串流媒體。 如需詳細資訊，請參閱[使用Mobile Edge SDK實作串流媒體](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)。
 
 +++
 
