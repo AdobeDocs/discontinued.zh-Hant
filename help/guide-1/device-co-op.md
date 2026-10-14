@@ -81,7 +81,7 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 您現有的訪客 ID 服務實作可支援 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)。 如果您現有已宣佈的 ID 是經過雜湊處理的電子郵件，則可用於支援以下功能：
 
-- [!DNL Audience Manager][以人物為基礎的目標](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
+- [!DNL Audience Manager]&#x200B;[以人物為基礎的目標](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
 - [Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=zh-Hant)。
 
 ## 我是否可以保留 [!DNL Device Co-op] 中的資料？
