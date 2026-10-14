@@ -7,12 +7,10 @@ source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
 source-wordcount: '1208'
 ht-degree: 95%
-
 ---
-
 # [!DNL Device Co-op] 生命週期結束常見問題
 
-本檔案提供有關Device Co-op生命週期結束(EOL)計畫的常見問題解答。 此計畫生效後，Adobe將在[Experience Cloud中央發行說明](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=zh-Hant)和[優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)中提供進階通知。
+本檔案提供有關Device Co-op生命週期結束(EOL)計畫的常見問題解答。 此計畫生效後，Adobe將在[Experience Cloud中央發行說明](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)和[優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)中提供進階通知。
 
 [!DNL Device Co-op] 方案可讓參與者共同努力，以更好地識別各種數位接觸點中的消費者，同時確保最高等級的隱私和透明度。
 
@@ -57,7 +55,7 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 ### [!DNL Analytics]
 
-您可以使用[!DNL Analytics] [跨裝置分析 (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=zh-Hant) 功能，因為此功能可支援 Adobe Experience Platform 身分識別服務[專用圖表](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=zh-Hant)和[欄位式拼接](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=zh-Hant)。
+您可以使用[!DNL Analytics] [跨裝置分析 (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) 功能，因為此功能可支援 Adobe Experience Platform 身分識別服務[專用圖表](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=zh-Hant)和[欄位式拼接](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=zh-Hant)。
 
 ### [!DNL Audience Manager]
 
@@ -81,9 +79,9 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 ## 哪些現有功能和實作可以幫助我準備好迎接無 Cookie 的未來？
 
-您現有的訪客 ID 服務實作可支援 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=zh-Hant)。 如果您現有已宣佈的 ID 是經過雜湊處理的電子郵件，則可用於支援以下功能：
+您現有的訪客 ID 服務實作可支援 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html)。 如果您現有已宣佈的 ID 是經過雜湊處理的電子郵件，則可用於支援以下功能：
 
-- [!DNL Audience Manager][以人物為基礎的目標](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hant)。
+- [!DNL Audience Manager][以人物為基礎的目標](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)。
 - [Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=zh-Hant)。
 
 ## 我是否可以保留 [!DNL Device Co-op] 中的資料？
