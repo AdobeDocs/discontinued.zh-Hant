@@ -7,9 +7,7 @@ source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
 source-wordcount: '1208'
 ht-degree: 95%
-
 ---
-
 # [!DNL Device Co-op] 生命週期結束常見問題
 
 本檔案提供有關Device Co-op生命週期結束(EOL)計畫的常見問題解答。 此計畫生效後，Adobe將在[Experience Cloud中央發行說明](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=zh-Hant)和[優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)中提供進階通知。
@@ -83,7 +81,7 @@ AdTech 環境即將發生的變化，預計將導致 [!DNL Device Co-op] 在未�
 
 您現有的訪客 ID 服務實作可支援 Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=zh-Hant)。 如果您現有已宣佈的 ID 是經過雜湊處理的電子郵件，則可用於支援以下功能：
 
-- [!DNL Audience Manager][以人物為基礎的目標](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hant)。
+- [!DNL Audience Manager]&#x200B;[以人物為基礎的目標](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=zh-Hant)。
 - [Experience Platform Segment Match (Beta)](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match/overview.html?lang=zh-Hant)。
 
 ## 我是否可以保留 [!DNL Device Co-op] 中的資料？
