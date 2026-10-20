@@ -41,7 +41,7 @@ ht-degree: 8%
 
 [錨點含有深層連結的新索引標籤](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[具有外部連結的新索引標籤](https://www.adobe.com){target="_blank"}
+[具有外部連結的新索引標籤](https://www.adobe.com/tw){target="_blank"}
 
 [新增索引標籤根連結](/help/guide-1/auditor.md){target="_blank"}
 
@@ -52,12 +52,12 @@ ht-degree: 8%
     <th>不含引號</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com" target="_blank">Adobe新索引標籤</a></td>
-    <td><a href="https://www.adobe.com" target="_blank">Adobe新索引標籤</td>
+    <td><a href="https://www.adobe.com/tw" target="_blank">Adobe新索引標籤</a></td>
+    <td><a href="https://www.adobe.com/tw" target="_blank">Adobe新索引標籤</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com">Adobe沒有新標籤</a></td>
-    <td><a href="https://www.adobe.com">Adobe沒有新標籤</td>
+    <td><a href="https://www.adobe.com/tw">Adobe沒有新標籤</a></td>
+    <td><a href="https://www.adobe.com/tw">Adobe沒有新標籤</td>
   </tr>
 </table>
 
